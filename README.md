@@ -21,7 +21,7 @@ along with details such as - cast, directors, ratings, release year, duration, e
 # Dataset - https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows
 
 # Tools Used
- Excel - Data Manipulation
+ Excel - Data Manipulation   
  Power BI - Dashboard
 
 # Dashboard ScreenShort - ![AMAZONZ DASh](https://github.com/Amit-Baviskar/Amazon-Prime-Movie/assets/153518736/8eefc895-b625-4873-99ca-e4f808cda7bb)
