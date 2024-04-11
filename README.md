@@ -2,7 +2,7 @@
 
 Amazon Prime is another one of the most popular media and video streaming platforms. They have close to 10000 movies or tv shows available on their platform, as of mid-2021, 
 they have over 200M Subscribers globally. This tabular dataset consists of listings of all the movies and tv shows available on Amazon Prime,
-along with details such as - cast, directors, ratings, release year, duration, etc.*
+along with details such as -**cast, directors, ratings, release year, duration, etc.**
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 # :pushpin: Entry In Table:pushpin:
@@ -18,7 +18,7 @@ along with details such as - cast, directors, ratings, release year, duration, e
   **Duration** - Total Duration 
   **Listed In Description** - Description About Content
   
-# :clipboard: Dataset - https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows :clipboard: 
+ :clipboard: **Dataset - https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows** :clipboard: 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
